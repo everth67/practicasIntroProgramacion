@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ModuloRobotico
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ModuloRObotico\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ModuloRobotico()
+comment2.params=
+comment2.target=java.lang.String\ Apagar()
+comment3.params=
+comment3.target=java.lang.String\ setEncender()
+comment4.params=saviaRecolectada
+comment4.target=java.lang.String\ recolectarSavia(int)
+comment5.params=
+comment5.target=java.lang.String\ VaciarMaquina()
+numComments=6
